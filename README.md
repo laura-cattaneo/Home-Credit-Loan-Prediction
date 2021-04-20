@@ -2,7 +2,7 @@
 
 This project was part of a requirement for MSBA 6420, Predictive Analytics. 
 I worked with Callie Page, Max Traub, and Cathy Zheng.
-The data comes from a 2018 closed Kaggle competition (https://www.kaggle.com/c/home-credit-default-risk/overview). 
+The data comes from a 2018 closed [Kaggle competition](https://www.kaggle.com/c/home-credit-default-risk/overview). 
 
 Home Credit, an international consumer finance provider, helps people with limited credit history get loans. 
 Since the company tailors to a non traditional market, they use alternative data to predict repayment ability. 
