@@ -1,7 +1,7 @@
 # Home-Credit-Loan-Prediction
 
 This project was part of a requirement for MSBA 6420, Predictive Analytics. 
-I worked with Callie Page, Max Traub, and Cathy Zheng.
+I worked with [Callie Page](https://github.com/calliepage), [Max Traub](https://github.com/maximiliantraub), and [Cathy Zheng](https://github.com/cathy-zheng).
 The data comes from a 2018 closed [Kaggle competition](https://www.kaggle.com/c/home-credit-default-risk/overview). 
 
 Home Credit, an international consumer finance provider, helps people with limited credit history get loans. 
